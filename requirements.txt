@@ -1,0 +1,8 @@
+pinecone-client
+langchain-openai
+python-dotenv
+langchain_community
+langchain_huggingface
+pinecone
+sentence-transformers
+ipykernel
